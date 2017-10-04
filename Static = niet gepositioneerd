@@ -1,0 +1,4 @@
+Static = niet gepositioneerd
+Fixed = heeft een vaste plek op de pagina, scrollt mee met de pagina
+Relative = staat relatief van de oorspronkelijke plek van het element, neemt altijd zijn oorspronkelijke plek nog in beslag
+Absolute = positioneren vanaf de eerste niet static parent, zoekt altijd de eerstvolgende parent die Niet static is.
